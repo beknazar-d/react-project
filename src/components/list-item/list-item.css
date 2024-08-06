@@ -1,0 +1,28 @@
+/* list.css */
+
+li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 5px;
+    background-color: #f9f9f9;
+}
+
+li span {
+    margin-right: 10px;
+}
+
+li button {
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+li button:hover {
+    background-color: #ff1a1a;
+}

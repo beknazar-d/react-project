@@ -1,0 +1,11 @@
+.search-panel {
+    margin-top: 20px;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: rgb(159, 144, 14);
+    margin-bottom: 20px;
+}
+input {
+    position: relative;
+    border-radius: 5px;
+}
